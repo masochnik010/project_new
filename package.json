@@ -1,5 +1,26 @@
 {
-  "devDependencies": {
+  "name": "mask_project",
+  "version": "2.2.8",
+  "description": "My new project",
+  "type": "module",
+  "main": "index.js",
+  "homepage": "https://github.com/masochnik010/project_new#readme",
+  "bugs": {
+    "url": "https://github.com/masochnik010/project_new/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masochnik010/project_new.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
     "lodash": "^4.17.23"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.1"
   }
 }
